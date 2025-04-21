@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="catppuccin-mocha" _name="Catppuccin Mocha" version="1.0">
+  <author>Catppuccin Team</author>
+  <_description>Soothing pastel theme for GNOME Text Editor</_description>
+
+  <!-- Base -->
+  <style name="text" foreground="#cdd6f4" background="#1e1e2e"/>
+  <style name="selection" background="#313244"/>
+  <style name="cursor" foreground="#f38ba8"/>
+
+  <!-- Comments -->
+  <style name="def:comment" foreground="#6c7086" italic="true"/>
+
+  <!-- Keywords -->
+  <style name="def:keyword" foreground="#f38ba8" bold="true"/>
+  <style name="def:operator" foreground="#89b4fa"/>
+
+  <!-- Constants -->
+  <style name="def:constant" foreground="#fab387"/>
+  <style name="def:string" foreground="#a6e3a1"/>
+  <style name="def:number" foreground="#f9e2af"/>
+
+  <!-- Functions & Identifiers -->
+  <style name="def:function" foreground="#cba6f7"/>
+  <style name="def:identifier" foreground="#f5c2e7"/>
+
+  <!-- Types & Classes -->
+  <style name="def:type" foreground="#89b4fa"/>
+  <style name="def:preprocessor" foreground="#74c7ec"/>
+
+  <!-- Error / Warning -->
+  <style name="def:error" foreground="#f38ba8" background="#1e1e2e" underline="true"/>
+  <style name="def:warning" foreground="#fab387" background="#1e1e2e" underline="true"/>
+
+</style-scheme>

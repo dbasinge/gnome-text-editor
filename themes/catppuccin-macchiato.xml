@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="catppuccin-macchiato" _name="Catppuccin Macchiato" version="1.0">
+  <author>Catppuccin Team</author>
+  <_description>Soothing pastel theme for GNOME Text Editor</_description>
+
+  <style name="text" foreground="#cad3f5" background="#24273a"/>
+  <style name="selection" background="#363a4f"/>
+  <style name="cursor" foreground="#ed8796"/>
+
+  <style name="def:comment" foreground="#6e738d" italic="true"/>
+  <style name="def:keyword" foreground="#ed8796" bold="true"/>
+  <style name="def:operator" foreground="#8aadf4"/>
+  <style name="def:constant" foreground="#f5a97f"/>
+  <style name="def:string" foreground="#a6da95"/>
+  <style name="def:number" foreground="#eed49f"/>
+  <style name="def:function" foreground="#c6a0f6"/>
+  <style name="def:identifier" foreground="#f5bde6"/>
+  <style name="def:type" foreground="#8aadf4"/>
+  <style name="def:preprocessor" foreground="#91d7e3"/>
+  <style name="def:error" foreground="#ed8796" underline="true"/>
+  <style name="def:warning" foreground="#f5a97f" underline="true"/>
+</style-scheme>
